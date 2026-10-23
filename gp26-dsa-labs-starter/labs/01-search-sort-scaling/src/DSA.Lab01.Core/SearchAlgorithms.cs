@@ -65,7 +65,7 @@ namespace DSA.Lab01
                 }
                 else
                 {
-                    
+                    HighIndex = MidIndex -1;
                 }
                 
                 
